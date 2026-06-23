@@ -5,7 +5,16 @@
 </p>
 
 <p align="center">
-  
+  <b>A single-player Kerbal Space Program utility, debug, visual, chaos, launch-check, and black box report mod menu.</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Game-Kerbal%20Space%20Program-1f6feb?style=for-the-badge" alt="Kerbal Space Program">
+  <img src="https://img.shields.io/badge/Type-DLL%20Mod-2ea043?style=for-the-badge" alt="DLL Mod">
+  <img src="https://img.shields.io/badge/Install-GameData-f0883e?style=for-the-badge" alt="GameData Install">
+  <img src="https://img.shields.io/badge/Use-Single%20Player-d73a49?style=for-the-badge" alt="Single Player">
+</p>
+
 ---
 
 ## Overview
@@ -22,28 +31,10 @@ Press **F8** in-game to open or close the menu.
 
 ### GIF Preview
 
+Add your main demo GIF here:
+
 ```text
 assets/demo.gif
-```
-
-<p align="center">
-  <img src="assets/demo.gif" alt="Mod Menu Demo" width="800">
-</p>
-
-### Screenshots
-
-
-<p align="center">
-  <img src="assets/main_menu.png" alt="Main Menu" width="32%">
-  <img src="assets/resources.png" alt="Resources Tab" width="32%">
-  <img src="assets/visuals.png" alt="Visuals Tab" width="32%">
-</p>
-
-<p align="center">
-  <img src="assets/black_box.png" alt="Black Box Tab" width="32%">
-  <img src="assets/readiness.png" alt="Readiness Scanner" width="32%">
-  <img src="assets/chaos.png" alt="Chaos Tab" width="32%">
-</p>
 
 ---
 
@@ -225,6 +216,7 @@ GameData/JebediahsTotallySafeConsole/Plugins/JebediahsTotallySafeConsole.dll
 
 This mod is best used for:
 
+- Single-player sandbox testing
 - Debugging broken craft
 - Testing staging setups
 - Learning why rockets fail
@@ -291,6 +283,30 @@ GameData/JebediahsTotallySafeConsole/Plugins/JebediahsTotallySafeConsole.dll
 
 ---
 
+## Project Layout
+
+```text
+JebediahsTotallySafeConsole/
+├── GameData/
+│   └── JebediahsTotallySafeConsole/
+│       └── Plugins/
+│           └── JebediahsTotallySafeConsole.dll
+├── assets/
+│   ├── demo.gif
+│   ├── main_menu.png
+│   ├── resources.png
+│   ├── visuals.png
+│   ├── black_box.png
+│   ├── readiness.png
+│   └── chaos.png
+├── src/
+│   └── JebediahsTotallySafeConsole.cs
+├── README.md
+└── LICENSE
+```
+
+---
+
 ## Troubleshooting
 
 ### The menu does not open
@@ -353,6 +369,8 @@ Possible future additions:
 ---
 
 ## Disclaimer
+
+This mod is intended for **single-player Kerbal Space Program** use only.
 
 Back up your saves before using save-affecting or experimental tools.
 
