@@ -31,8 +31,6 @@ Press **F8** in-game to open or close the menu.
 
 ### GIF Preview
 
-Add your main demo GIF here:
-
 ```text
 assets/demo.gif
 ```
@@ -43,7 +41,6 @@ assets/demo.gif
 
 ### Screenshots
 
-Put your screenshots inside the `assets` folder.
 
 <p align="center">
   <img src="assets/main_menu.png" alt="Main Menu" width="32%">
@@ -237,7 +234,6 @@ GameData/JebediahsTotallySafeConsole/Plugins/JebediahsTotallySafeConsole.dll
 
 This mod is best used for:
 
-- Single-player sandbox testing
 - Debugging broken craft
 - Testing staging setups
 - Learning why rockets fail
