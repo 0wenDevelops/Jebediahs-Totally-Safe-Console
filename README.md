@@ -28,10 +28,6 @@ Press **F8** in-game to open or close the menu.
 ---
 
 ![Demo](DemoGif.gif)
-<p align="center">
-  <img src="demo.gif" width="800">
-</p>
-
 
 ---
 
