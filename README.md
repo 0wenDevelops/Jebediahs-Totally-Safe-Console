@@ -5,16 +5,7 @@
 </p>
 
 <p align="center">
-  <b>A single-player Kerbal Space Program utility, debug, visual, chaos, launch-check, and black box report mod menu.</b>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Game-Kerbal%20Space%20Program-1f6feb?style=for-the-badge" alt="Kerbal Space Program">
-  <img src="https://img.shields.io/badge/Type-DLL%20Mod-2ea043?style=for-the-badge" alt="DLL Mod">
-  <img src="https://img.shields.io/badge/Install-GameData-f0883e?style=for-the-badge" alt="GameData Install">
-  <img src="https://img.shields.io/badge/Use-Single%20Player-d73a49?style=for-the-badge" alt="Single Player">
-</p>
-
+  
 ---
 
 ## Overview
