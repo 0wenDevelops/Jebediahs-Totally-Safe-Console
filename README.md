@@ -1,7 +1,7 @@
 # Jebediah’s Totally Safe Console
 
 <p align="center">
-  <img src="assets/demo.gif" alt="Jebediah’s Totally Safe Console Demo" width="800">
+  <img src="demo.gif" alt="Jebediah’s Totally Safe Console Demo" width="800">
 </p>
 
 <p align="center">
