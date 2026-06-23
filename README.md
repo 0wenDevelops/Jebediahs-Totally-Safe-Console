@@ -31,16 +31,6 @@ Press **F8** in-game to open or close the menu.
 
 ### GIF Preview
 
-```
-
-Do **not** place only the `.dll` directly into `GameData`.
-
-Use the full folder:
-
-```text
-GameData/JebediahsTotallySafeConsole/Plugins/JebediahsTotallySafeConsole.dll
-```
-
 ---
 
 ## Controls
