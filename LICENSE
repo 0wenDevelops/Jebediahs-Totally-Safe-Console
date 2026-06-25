@@ -1,10 +1,10 @@
-# Personal Use Source-Available License
+# Personal-Use Source-Available License
 
 Copyright (c) 2026 Owen
 
-This software, including its source code, compiled files, assets, documentation, and related materials, is owned by the copyright holder.
+This software, including its source code, compiled files, assets, documentation, release packages, and related materials, is owned by the copyright holder.
 
-This project is source-available, but it is not open source.
+This project is **source-available**, but it is **not open source**. The source may be visible for learning and personal use, but the copyright holder keeps all rights not clearly granted here.
 
 ## Permission
 
@@ -27,9 +27,9 @@ You may not:
 - Publish modified versions of this project.
 - Share modified versions of this project.
 - Claim this project as your own.
-- Remove or hide the original author credit.
+- Remove, hide, or replace the original author credit.
 - Use this project in paid products, paid mod packs, or commercial projects.
-- Upload this project to other websites, launchers, mod platforms, repositories, or file hosts without written permission from the copyright holder.
+- Upload this project to other websites, launchers, mod platforms, repositories, file hosts, or mirrors without written permission from the copyright holder.
 - Use this project or its code to create a public competing version, clone, fork, or rebrand.
 
 ## Private Modifications
@@ -50,7 +50,9 @@ If you mention this project publicly, you must credit the original project and a
 
 Required credit format:
 
-Jebediah’s Totally Safe Console by Owen
+```text
+Jebediah's Totally Safe Console by Owen
+```
 
 ## No Warranty
 
@@ -65,7 +67,7 @@ The author is not responsible for:
 - Broken installs
 - Damaged craft
 - Unexpected bugs
-- Any other issues caused by using or modifying this software
+- Any other issue caused by using, building, modifying, or installing this software
 
 Use this software at your own risk.
 
