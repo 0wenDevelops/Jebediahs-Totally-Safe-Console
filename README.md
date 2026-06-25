@@ -101,36 +101,6 @@ After building, place the compiled DLL here:
 GameData/JebediahsTotallySafeConsole/Plugins/JebediahsTotallySafeConsole.dll
 ```
 
----
-
-## Suggested Repository Layout
-
-This is the preferred structure for keeping the repo clean:
-
-```text
-Jebediahs-Totally-Safe-Console/
-├── GameData/
-│   └── JebediahsTotallySafeConsole/
-│       └── Plugins/
-│           └── JebediahsTotallySafeConsole.dll
-├── src/
-│   └── JebediahsTotallySafeConsole.cs
-├── assets/
-│   ├── screenshots/
-│   └── demo/
-├── docs/
-│   └── RELEASE_CHECKLIST.md
-├── .github/
-│   ├── ISSUE_TEMPLATE/
-│   └── PULL_REQUEST_TEMPLATE.md
-├── .gitignore
-├── CHANGELOG.md
-├── CONTRIBUTING.md
-├── LICENSE
-├── README.md
-└── SECURITY.md
-```
-
 Use `src/` for source code, `assets/` for images or demo media, `docs/` for extra documentation, and `GameData/` only for install-ready KSP files.
 
 ---
